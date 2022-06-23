@@ -1,0 +1,29 @@
+*{
+    font-family: "Lobster", cursive;
+    font-weight: 100;
+    font-size: 30px;
+    background-color: black;
+}
+div {
+    height: 120px;
+    width: 120px;
+    margin: auto;
+    box-sizing: content-box;
+}
+.caja1{
+    background: blue;
+    border: 4px solid rgb(62, 62, 196);
+    
+}
+.caja2{
+    background-color: blueviolet;
+    border: 4px solid rgb(156, 107, 202) ;
+}
+.caja3{
+    background-color: darkorange;
+    border: 4px solid rgb(210, 151, 79) 
+}
+.caja4{
+    background-color: antiquewhite;
+    border: 4px solid rgb(200, 196, 191) 
+}
