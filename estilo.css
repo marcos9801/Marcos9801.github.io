@@ -16,14 +16,14 @@ div {
     
 }
 .caja2{
-    background-color: blueviolet;
+    background: blueviolet;
     border: 4px solid rgb(156, 107, 202) ;
 }
 .caja3{
-    background-color: darkorange;
+    background: darkorange;
     border: 4px solid rgb(210, 151, 79) 
 }
 .caja4{
-    background-color: antiquewhite;
+    background: antiquewhite;
     border: 4px solid rgb(200, 196, 191) 
 }
